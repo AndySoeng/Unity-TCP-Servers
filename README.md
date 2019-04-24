@@ -8,3 +8,5 @@
 
 
 可多开GameServer连入Gate服务器，GameServers未连入数据库服务器。
+
+使用需要修改其中的ip参数。
