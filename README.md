@@ -7,4 +7,4 @@
 -Network---------------Unity客户端  
 
 
-可多开GameServer连入Gate服务器，GameServer未连入数据库服务器。
+可多开GameServer连入Gate服务器，GameServers未连入数据库服务器。
